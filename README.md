@@ -5,6 +5,7 @@
 
 🐍 Before diving into Python coding, ensure you've Python installed on your machine:
 
+
 1️⃣ Visit https://www.python.org
 
 2️⃣ Download & install the latest version
