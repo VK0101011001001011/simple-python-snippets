@@ -43,7 +43,7 @@ ___
 
 3️⃣ Save it with .py extension
 
-(example example_name.py)
+(example: example_name.py)
 
 Now, you're set for the Python coding!
 
