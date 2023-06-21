@@ -1,7 +1,13 @@
 # Simple Python Snippets
 
+![image](https://github.com/VellVoid/simple-python-snippets/assets/137341548/13e810ba-f352-44d9-8068-bd8c5710e966)
+
+
  Python Code Snippets for Beginners!
  Learn to code in 5 minutes.
+
+ 
+
 
 🐍 Before diving into Python coding, ensure you've Python installed on your machine:
 
