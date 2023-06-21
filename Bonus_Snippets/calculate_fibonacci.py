@@ -1,3 +1,4 @@
+#Calculate fibonacci for sequence of ten
 def fibonacci(n):
     if n <= 0:
         return []
