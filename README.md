@@ -1,4 +1,4 @@
-# simple-python-snippets
+# Simple Python Snippets
 
  Python Code Snippets for Beginners!
  Learn to code in 5 minutes.
